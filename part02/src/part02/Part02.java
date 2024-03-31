@@ -14,7 +14,13 @@ public class Part02 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        String[] mahasiswa = {"irgi", "anissa", "firdaun"};
+        int[] npm = {123, 456, 789};
+        char[] nilai = {'A', 'B', 'C'};
+
+        System.out.println(mahasiswa[1]); 
+        System.out.println(npm[2]); 
+        System.out.println(nilai[0]);
     }
     
 }
