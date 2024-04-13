@@ -39,7 +39,6 @@ public class MenuMakanan {
         System.out.println(menu+" - Rp. "+harga+"/Porsi");
         harga = harga * porsi;
         System.out.println("Total Bayar : Rp. "+harga);
-        }
-        
+        }  
     }
 }
