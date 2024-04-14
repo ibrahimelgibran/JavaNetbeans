@@ -34,7 +34,7 @@ public class ganjilGenapWhile {
                 split++;
             }
             a++;
-        }
+          }
         }
         System.out.println(" ");
     }
